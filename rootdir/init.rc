@@ -12,7 +12,7 @@ import /init.usb.configfs.rc
 import /init.${ro.zygote}.rc
 
 # Include our extra init file
-import /init.aosp.rc
+import /init.dot.rc
 
 
 on early-init
